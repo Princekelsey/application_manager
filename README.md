@@ -13,6 +13,10 @@ npm run server
 
 Runs only server in the development mode.
 
+npm client-install
 
+Installs all the client side dependencies
 
+npm server-install
 
+Installs all the server side dependencies
